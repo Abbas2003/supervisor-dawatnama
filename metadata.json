@@ -1,0 +1,6 @@
+{
+  "name": "Lunch Ki Dawat — Sir Syed Hassan Zaidi & Sir Adnan Ahmed",
+  "description": "Ek khaas aur pur-khuloos lunch invitation — Mohtaram Sir Syed Hassan Zaidi aur Sir Adnan Ahmed ke liye.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
